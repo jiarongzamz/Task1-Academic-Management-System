@@ -7,7 +7,7 @@ An SQL-based system for managing student information and course enrollment throu
 - EnrollmentInfo: Course enrollment records
 
 ## Project Structure
-- `academic_management_system.sql`: SQL implementation
+- `academic_management_system.sql`:  Main SQL code file
 - Screenshots:
   - Task1_1_Database_Creation.png
   - Task1_2_Data_Insertion.png

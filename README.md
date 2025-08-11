@@ -14,25 +14,11 @@ An SQL-based system for managing student information and course enrollment throu
   - Task1_3_Information_Retrieval.png
   - Task1_4_Reporting_Analytics.png
 
-## Features
-1. Database Creation
-   - Created three tables with proper constraints
-   - Set up relationships between tables
-
-2. Data Creation
-   - Inserted sample student records
-   - Added course information
-   - Created enrollment records
-
-3. Student Information Retrieval
-   - Student details and enrollment status
-   - Course enrollment information
-   - Course and instructor details
-
-4. Reporting and Analytics
-   - Students per course
-   - Course enrollment statistics
-   - Multiple course registrations
+## Implementation Tasks
+1. Database Creation: Established three interconnected tables with proper relationships.
+2. Data Creation: Populated tables with sample student, course, and enrollment data.
+3. Information Retrieval: Implemented queries to access student and course information.
+4. Reporting and Analytics: Generated enrollment statistics and course analysis reports.
 
 ## Results
 Implementation tested with sample data. See screenshots for query results.

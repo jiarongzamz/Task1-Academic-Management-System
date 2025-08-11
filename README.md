@@ -21,6 +21,8 @@ An SQL-based system for managing student information and course enrollment throu
 4. Reporting and Analytics: Generated enrollment statistics and course analysis reports.
 
 ## Results
-Implementation tested with sample data. See screenshots for query results.
+All functionalities have been implemented and documented with corresponding screenshots.
+
+    
 
 
